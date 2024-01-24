@@ -400,7 +400,11 @@ a{text-decoration: none;}
     flex-wrap: wrap;
     justify-content: center;
     flex-direction: column-reverse;
-    width: 100%;
+}
+
+.inicio-tf p{
+    margin: 0 0 0 0;
+
 }
 
 .text-container {
@@ -455,11 +459,19 @@ a{text-decoration: none;}
     margin-bottom: 0px;
 }
 
+.projetoItem{
+    flex-wrap: wrap;
+}
+
 /* Section: .images-projetos */
 .images-projetos img {
     margin-top: 20px;
     align-items: center;
     border: 1px solid #FFFFFF !important;
+}
+
+.imagens_site{
+    width: 41vh;
 }
 
 /* Section: .technologies */
