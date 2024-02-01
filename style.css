@@ -220,10 +220,11 @@ body {
 
 
 .imagens_site {
-    width: 25rem;
+    width: 23rem;
     transition: transform 0.5s;
     border-radius: 5px;
     object-fit: cover;
+    height: 14rem;
 }
 
 .imagens_site:hover {
@@ -471,7 +472,7 @@ a{text-decoration: none;}
 }
 
 .imagens_site{
-    width: 41vh;
+    width: 21rem;
 }
 
 /* Section: .technologies */
