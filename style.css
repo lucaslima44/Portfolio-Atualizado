@@ -249,7 +249,7 @@ body {
     width: 23rem;
     transition: transform 0.5s;
     border-radius: 5px;
-    object-fit: cover;
+    object-fit: contain;
     height: 14rem;
 }
 
@@ -644,7 +644,7 @@ a{text-decoration: none;}
 
 .imagens_site{
     width: 100%;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 /* Section: .technologies */
